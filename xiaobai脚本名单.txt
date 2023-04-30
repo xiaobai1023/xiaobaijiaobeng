@@ -1,0 +1,449 @@
+repeat
+    task.wait()
+until game.Players.LocalPlayer.Character~=nil;
+local a=tostring(game.Players.LocalPlayer.Character);
+if a=="bigfool1023"then
+_G.whitelisted=true
+elseif a=="lblssjsjsj"then
+_G.whitelisted=true
+elseif a=="lblsysjsjsj"then
+_G.whitelisted=true
+elseif a=="bigfool1028"then
+_G.whitelisted=true
+elseif a=="xiaobaiyang_666"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+elseif a=="玩家用户名"then
+_G.whitelisted=true
+end
+if _G.whitelisted==true then
+    https://raw.githubusercontent.com/xiaobai1023/-1023/main/xiaobai%E8%84%9A%E6%9C%AC%E6%9B%B4%E6%96%B0(66).txt
+    else
+ 
+game.Players.LocalPlayer:Kick(a.."你未被列入白名单，加QQ群755482365，0.5元获得白名单，持续更新")
+end
